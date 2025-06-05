@@ -8,8 +8,6 @@ namespace AlgandStruct
 {
     using System;
     using System.Collections.Generic;
-
-    // Определение узла дерева
     public class TreeNode
     {
         public int Value { get; set; }
