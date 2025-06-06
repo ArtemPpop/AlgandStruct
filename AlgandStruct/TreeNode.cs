@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace AlgandStruct
 {
-    using System;
-    using System.Collections.Generic;
     public class TreeNode
     {
         public int Value { get; set; }
