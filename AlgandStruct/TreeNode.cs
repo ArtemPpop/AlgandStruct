@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlgandStruct
-{
     public class TreeNode
     {
         public int Value { get; set; }
@@ -61,4 +59,4 @@ namespace AlgandStruct
             }
         }
     }
-}
+
